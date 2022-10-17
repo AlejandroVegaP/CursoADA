@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\CursoADA\Prj04Juego\juego.gpr
+20221017085652 e8a7fd8be5fabd0d2ac1a3f56cff88df
+[BOUND OBJECT FILES]
+C:\CursoADA\Prj04Juego\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\CursoADA\Prj04Juego\obj\
+-LC:\CursoADA\Prj04Juego\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

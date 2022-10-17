@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\CursoADA\Prj02Iterativas\default.gpr
+20221014070832 db704022d920a3886d62fbcf62d1bedb
+[BOUND OBJECT FILES]
+C:\CursoADA\Prj02Iterativas\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\CursoADA\Prj02Iterativas\obj\
+-LC:\CursoADA\Prj02Iterativas\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
