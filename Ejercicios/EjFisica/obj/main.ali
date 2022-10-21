@@ -1,0 +1,79 @@
+V "GNAT Lib v2021"
+M P W=b
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_FLOATING_POINT
+RV NO_IO
+RV NO_DYNAMIC_SIZED_OBJECTS
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U main%b		main.adb		f7431370 NE OO SU
+Z ada.strings.text_buffers%s  a-sttebu.adb	a-sttebu.ali
+W fisica%s		fisica.adb		fisica.ali
+Z system.concat_2%s	s-conca2.adb		s-conca2.ali
+Z system.img_flt%s	s-imgflt.ads		s-imgflt.ali
+W text_io%s		text_io.ads		text_io.ali
+
+D ada.ads		20210520051132 76789da1 ada%s
+D a-except.ads		20210520051128 946f3014 ada.exceptions%s
+D a-ioexce.ads		20210520051128 e4a01f64 ada.io_exceptions%s
+D a-stream.ads		20210520051130 119b8fb3 ada.streams%s
+D a-string.ads		20210520051130 90ac6797 ada.strings%s
+D a-sttebu.ads		20210520051130 18209c64 ada.strings.text_buffers%s
+D a-stuten.ads		20210520051130 808c40ad ada.strings.utf_encoding%s
+D a-tags.ads		20210520051130 9eaa38c6 ada.tags%s
+D a-textio.ads		20210520051130 aef4d56d ada.text_io%s
+D a-unccon.ads		20210520051130 0e9b276f ada.unchecked_conversion%s
+D fisica.ads		20221021075716 52f07772 fisica%s
+D interfac.ads		20210520051132 edec285f interfaces%s
+D i-cstrea.ads		20210520051132 e53d8b8e interfaces.c_streams%s
+D main.adb		20221021075658 8401ac9a main%b
+D system.ads		20210520051136 2ffa5114 system%s
+D s-conca2.ads		20210520051132 02a0d7d0 system.concat_2%s
+D s-crtl.ads		20210520051132 0ebbdb71 system.crtl%s
+D s-exctab.ads		20210520051132 54135002 system.exception_table%s
+D s-ficobl.ads		20210520051132 078245e4 system.file_control_block%s
+D s-imager.ads		20210520051134 500b11a9 system.image_r%s
+D s-imageu.ads		20210520051134 525c30c6 system.image_u%s
+D s-imgflt.ads		20210520051134 78689de8 system.img_flt%s
+D s-imguns.ads		20210520051134 0e4da2ac system.img_uns%s
+D s-parame.ads		20210520051134 4752c4cb system.parameters%s
+D s-powflt.ads		20210520051134 46f7a1b9 system.powten_flt%s
+D s-putima.ads		20210520051134 4e095881 system.put_images%s
+D s-secsta.ads		20210520051134 9b3ab94b system.secondary_stack%s
+D s-soflin.ads		20210520051134 a7318a92 system.soft_links%s
+D s-stache.ads		20210520051134 a37c21ec system.stack_checking%s
+D s-stalib.ads		20210520051134 472fbca8 system.standard_library%s
+D s-stoele.ads		20210520051134 2dc34a04 system.storage_elements%s
+D s-stoele.adb		20210520051134 ed88f8fb system.storage_elements%b
+D s-traent.ads		20210520051134 26a8d361 system.traceback_entries%s
+D s-unstyp.ads		20210520051134 2b077493 system.unsigned_types%s
+D s-wchcon.ads		20210520051136 1b7d22d2 system.wch_con%s
+D text_io.ads		20210520051136 21b2c898 text_io%s
+D unchconv.ads		20210520051136 ca2f9e18 unchecked_conversion%s
+G a e
+G c Z b b [main standard 4 11 none]
+G r c none [main standard 4 11 none] [posicion_final fisica 8 13 none]
+X 9 a-textio.ads
+506U14*Put_Line 14|25s4
+X 11 fisica.ads
+1K9*fisica 13e11 14|1w6 1r18
+3F9*Distancia<float> 14|16r16 17r12
+4F9*Velocidad<float> 14|18r10
+5F9*Tiempo<float> 14|19r11
+6F9*Aceleracion<float> 14|20r11
+8V13*Posicion_Final{3F9} 14|24s17
+X 14 main.adb
+4U11*Main 4b11 29l5 29t9
+16f4 Pos_Final{11|3F9} 24m4 25r38
+17f4 Xinit{11|3F9} 24r32
+18f4 Vel{11|4F9} 24r39
+19f4 Tiem{11|5F9} 24r44
+20f4 Acel{11|6F9} 24r50
+X 36 text_io.ads
+24K9*Text_IO=24:29 14|2w6 2r19
+

@@ -1,0 +1,6 @@
+package Indra.IO is
+
+   function Get_NotEmpty_Line(ErrorMessage : String := "Entrada vacía. Vuelva a intentarlo.") return String;
+   
+
+end Indra.IO;

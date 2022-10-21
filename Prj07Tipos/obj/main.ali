@@ -1,0 +1,113 @@
+V "GNAT Lib v2021"
+M P W=b
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_ENUMERATION_MAPS
+RV NO_FLOATING_POINT
+RV NO_IO
+RV NO_LONG_LONG_INTEGERS
+RV NO_DYNAMIC_SIZED_OBJECTS
+RV NO_IMPLEMENTATION_PRAGMAS
+RV NO_IMPLICIT_LOOPS
+
+U main%b		main.adb		90fc2868 NE OO SU
+W ada%s			ada.ads			ada.ali
+Z ada.strings.text_buffers%s  a-sttebu.adb	a-sttebu.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W geometria%s		geometria.adb		geometria.ali
+Z system.concat_2%s	s-conca2.adb		s-conca2.ali
+Z system.concat_3%s	s-conca3.adb		s-conca3.ali
+Z system.img_lli%s	s-imglli.ads		s-imglli.ali
+
+D ada.ads		20210520051132 76789da1 ada%s
+D a-except.ads		20210520051128 946f3014 ada.exceptions%s
+D a-ioexce.ads		20210520051128 e4a01f64 ada.io_exceptions%s
+D a-stream.ads		20210520051130 119b8fb3 ada.streams%s
+D a-string.ads		20210520051130 90ac6797 ada.strings%s
+D a-sttebu.ads		20210520051130 18209c64 ada.strings.text_buffers%s
+D a-stuten.ads		20210520051130 808c40ad ada.strings.utf_encoding%s
+D a-tags.ads		20210520051130 9eaa38c6 ada.tags%s
+D a-textio.ads		20210520051130 aef4d56d ada.text_io%s
+D a-unccon.ads		20210520051130 0e9b276f ada.unchecked_conversion%s
+D geometria.ads		20221020095924 8f7015ed geometria%s
+D interfac.ads		20210520051132 edec285f interfaces%s
+D i-cstrea.ads		20210520051132 e53d8b8e interfaces.c_streams%s
+D main.adb		20221020103802 b178e8e8 main%b
+D system.ads		20210520051136 2ffa5114 system%s
+D s-conca2.ads		20210520051132 02a0d7d0 system.concat_2%s
+D s-conca3.ads		20210520051132 0b705ca5 system.concat_3%s
+D s-crtl.ads		20210520051132 0ebbdb71 system.crtl%s
+D s-exctab.ads		20210520051132 54135002 system.exception_table%s
+D s-ficobl.ads		20210520051132 078245e4 system.file_control_block%s
+D s-imagei.ads		20210520051134 0d3f86a7 system.image_i%s
+D s-imglli.ads		20210520051134 3723d9ff system.img_lli%s
+D s-parame.ads		20210520051134 4752c4cb system.parameters%s
+D s-putima.ads		20210520051134 4e095881 system.put_images%s
+D s-secsta.ads		20210520051134 9b3ab94b system.secondary_stack%s
+D s-soflin.ads		20210520051134 a7318a92 system.soft_links%s
+D s-stache.ads		20210520051134 a37c21ec system.stack_checking%s
+D s-stalib.ads		20210520051134 472fbca8 system.standard_library%s
+D s-stoele.ads		20210520051134 2dc34a04 system.storage_elements%s
+D s-stoele.adb		20210520051134 ed88f8fb system.storage_elements%b
+D s-traent.ads		20210520051134 26a8d361 system.traceback_entries%s
+D s-unstyp.ads		20210520051134 2b077493 system.unsigned_types%s
+D s-wchcon.ads		20210520051136 1b7d22d2 system.wch_con%s
+D unchconv.ads		20210520051136 ca2f9e18 unchecked_conversion%s
+G a e
+G c Z b b [main standard 4 11 none]
+G r c none [main standard 4 11 none] [Omultiply geometria 7 13 none]
+X 1 ada.ads
+16K9*Ada 20e8 14|1r6 1r23
+X 9 a-textio.ads
+58K13*Text_IO 725e16 14|1w10 1r27
+506U14*Put_Line 14|32s4 94s10 97s16 99s16 101s16
+X 11 geometria.ads
+1K9*Geometria 9e14 14|2w6 2r21
+3F9*Distancia<float> 14|50r14 51r16 76r14 77r16
+4F9*Area<float> 14|52r20 78r24
+7V14*"*"{4F9} 14|71s26 80s31
+X 14 main.adb
+4U11*Main 4b11 110l5 110t9
+9I9 Cantidad<long_long_integer> 14r30 15r33 19r13
+14I12 Cantidad_Peras{9I9} 17r12
+15I12 Cantidad_Manzanas{9I9} 18r14
+17i4 Peras{14I12} 24m4 29r14
+18i4 Manzanas{15I12} 25m4 29r22
+19i4 Frutas{9I9} 29m4 32r32 34m4 35m4 35r14 36m4
+39I12 Mi_Tipo<integer> 40r18
+40i7 Variable{39I12} 42m7
+50f7 Base{11|3F9} 67m7 71r21
+51f7 Altura{11|3F9} 68m7 71r28
+52f7 Superficie{11|4F9} 71m7
+54U17 Procedure_En_Declare 54b17 57t10
+76f7 Base{11|3F9} 80r26
+77f7 Altura{11|3F9} 80r33
+78f7 Area_Triangulo{11|4F9} 80m7
+86E12 Dias 86e80 89r27 93r18
+86n21 Lunes{86E12} 92r28 96r18
+86n28 Martes{86E12} 100r18
+86n36 Miercoles{86E12}
+86n47 Jueves{86E12}
+86n55 Viernes{86E12} 100r26
+86n64 Sabado{86E12} 98r18
+86n72 Domingo{86E12} 98r26
+87E12 Meses 87e122
+87n22 Enero{87E12}
+87n29 Febrero{87E12}
+87n38 Marzo{87E12}
+87n45 Abril{87E12}
+87n52 Mayo{87E12}
+87n58 Junio{87E12}
+87n65 Julio{87E12}
+87n72 Agosto{87E12}
+87n80 Septiembre{87E12}
+87n92 Octubre{87E12}
+87n101 Noviembre{87E12}
+87n112 Diciembre{87E12}
+89e7 Primer_Dia_Semana{86E12} 92m7
+93e11 Dia{86E12} 94r30 95r15
+

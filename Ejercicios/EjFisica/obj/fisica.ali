@@ -1,0 +1,31 @@
+V "GNAT Lib v2021"
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_FLOATING_POINT
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U fisica%b		fisica.adb		2598fe37 NE OO PK IL
+
+U fisica%s		fisica.ads		52f07772 EE NE OO PK IL
+
+D fisica.ads		20221021075716 52f07772 fisica%s
+D fisica.adb		20221021075734 77688945 fisica%b
+D system.ads		20210520051136 2ffa5114 system%s
+G a e
+G c Z s b [posicion_final fisica 8 13 none]
+X 1 fisica.ads
+1K9*fisica 13l5 13e11 2|1b14 14l5 14t11
+3F9*Distancia<float> 8r42 11r55 2|5r42 8r55 10r14
+4F9*Velocidad<float> 9r42 2|6r42
+5F9*Tiempo<float> 10r35 2|7r35
+6F9*Aceleracion<float> 11r35 2|8r35
+8V13*Posicion_Final{3F9} 8>28 9>28 10>28 11>28 2|5b13 11l8 11t22
+8f28 Pos_init{3F9} 2|5b28 10r31
+9f28 Vel_init{4F9} 2|6b28 10r49
+10f28 T{5F9} 2|7b28 10r67 10r95
+11f28 A{6F9} 2|8b28 10r84
+

@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\CursoADA\Prj05Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\CursoADA\Prj05Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 92" >
+      <vfs_project>C:\CursoADA\Prj05Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\CursoADA\Prj05Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 7" >
+      <vfs_project>C:\CursoADA\Prj05Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\CursoADA\Prj05Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 26" >
+      <vfs_project>C:\CursoADA\Prj05Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\CursoADA\Prj05Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 34" >
+      <vfs_project>C:\CursoADA\Prj05Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\CursoADA\Prj05Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 21" >
+      <vfs_project>C:\CursoADA\Prj05Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\CursoADA\Prj05Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 47" line=" 25" >
+      <vfs_project>C:\CursoADA\Prj05Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\CursoADA\Prj05Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 21" >
+      <vfs_project>C:\CursoADA\Prj05Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\CursoADA\Prj05Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 98" >
+      <vfs_project>C:\CursoADA\Prj05Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\CursoADA\Prj05Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 21" >
+      <vfs_project>C:\CursoADA\Prj05Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\CursoADA\Prj05Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 98" >
+      <vfs_project>C:\CursoADA\Prj05Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\CursoADA\Prj05Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\CursoADA\Prj05Subprogramas\subprogramas.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 21" >
+      <vfs_project>C:\CursoADA\Prj05Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\CursoADA\Prj05Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 98" >
+      <vfs_project>C:\CursoADA\Prj05Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\CursoADA\Prj05Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 21" >
+      <vfs_project>C:\CursoADA\Prj05Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\CursoADA\Prj05Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 46" line=" 25" >
+      <vfs_project>C:\CursoADA\Prj05Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\CursoADA\Prj05Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 21" >
+      <vfs_project>C:\CursoADA\Prj05Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\CursoADA\Prj05Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 40" >
+      <vfs_project>C:\CursoADA\Prj05Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\CursoADA\Prj05Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 82" >
+      <vfs_project>C:\CursoADA\Prj05Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\lib\gcc\x86_64-w64-mingw32\10.3.1\adainclude\a-tiflio.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 40" >
+      <vfs_project>C:\CursoADA\Prj05Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\CursoADA\Prj05Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 21" >
+      <vfs_project>C:\CursoADA\Prj05Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\CursoADA\Prj05Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\CursoADA\Prj05Subprogramas\subprogramas.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 21" >
+      <vfs_project>C:\CursoADA\Prj05Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\CursoADA\Prj05Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 98" >
+      <vfs_project>C:\CursoADA\Prj05Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\CursoADA\Prj05Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 21" >
+      <vfs_project>C:\CursoADA\Prj05Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\CursoADA\Prj05Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 102" >
+      <vfs_project>C:\CursoADA\Prj05Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\CursoADA\Prj05Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 22" line=" 53" >
+      <vfs_project>C:\CursoADA\Prj05Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\CursoADA\Prj05Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 69" line=" 105" >
+      <vfs_project>C:\CursoADA\Prj05Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\CursoADA\Prj05Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 81" line=" 59" >
+      <vfs_project>C:\CursoADA\Prj05Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\CursoADA\Prj05Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 22" line=" 66" >
+      <vfs_project>C:\CursoADA\Prj05Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\CursoADA\Prj05Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 81" line=" 59" >
+      <vfs_project>C:\CursoADA\Prj05Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\CursoADA\Prj05Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 51" line=" 104" >
+      <vfs_project>C:\CursoADA\Prj05Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\CursoADA\Prj05Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 22" line=" 105" >
+      <vfs_project>C:\CursoADA\Prj05Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\CursoADA\Prj05Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

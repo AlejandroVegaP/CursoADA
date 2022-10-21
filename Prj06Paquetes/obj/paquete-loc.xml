@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file>C:\CursoADA\Prj06Paquetes\paquete.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\CursoADA\Prj06Paquetes\paquete.gpr</vfs_project>
+      <vfs_file>C:\CursoADA\Prj06Paquetes\src\io.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\CursoADA\Prj06Paquetes\paquete.gpr</vfs_project>
+      <vfs_file>C:\CursoADA\Prj06Paquetes\src\io.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\CursoADA\Prj06Paquetes\paquete.gpr</vfs_project>
+      <vfs_file>C:\CursoADA\Prj06Paquetes\src\io.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\CursoADA\Prj06Paquetes\paquete.gpr</vfs_project>
+      <vfs_file>C:\CursoADA\Prj06Paquetes\src\io.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\CursoADA\Prj06Paquetes\paquete.gpr</vfs_project>
+      <vfs_file>C:\CursoADA\Prj06Paquetes\src\io.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\CursoADA\Prj06Paquetes\paquete.gpr</vfs_project>
+      <vfs_file>C:\CursoADA\Prj06Paquetes\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\CursoADA\Prj06Paquetes\paquete.gpr</vfs_project>
+      <vfs_file>C:\CursoADA\Prj06Paquetes\src\constantes.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 27" >
+      <vfs_project>C:\CursoADA\Prj06Paquetes\paquete.gpr</vfs_project>
+      <vfs_file>C:\CursoADA\Prj06Paquetes\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 32" >
+      <vfs_project>C:\CursoADA\Prj06Paquetes\paquete.gpr</vfs_project>
+      <vfs_file>C:\CursoADA\Prj06Paquetes\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 3" line=" 10" >
+      <vfs_project>C:\CursoADA\Prj06Paquetes\paquete.gpr</vfs_project>
+      <vfs_file>C:\CursoADA\Prj06Paquetes\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 6" line=" 4" >
+      <vfs_project>C:\CursoADA\Prj06Paquetes\paquete.gpr</vfs_project>
+      <vfs_file>C:\CursoADA\Prj06Paquetes\src\io.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

@@ -1,0 +1,21 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\CursoADA\Prj06Paquetes\paquete.gpr
+20221019072350 726313bf1e9dbd56fdd06cb66a9cf41f
+[BOUND OBJECT FILES]
+C:\CursoADA\Prj06Paquetes\obj\constantes.o
+C:\CursoADA\Prj06Paquetes\obj\io.o
+C:\CursoADA\Prj06Paquetes\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\CursoADA\Prj06Paquetes\obj\
+-LC:\CursoADA\Prj06Paquetes\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
